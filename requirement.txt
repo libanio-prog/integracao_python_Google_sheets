@@ -1,0 +1,4 @@
+gspread
+pandas
+gspread_dataframe
+oauth2client
